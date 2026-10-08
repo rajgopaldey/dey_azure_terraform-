@@ -1,5 +1,5 @@
-ENABLE="True"
-ENVIRONMENT="nonprod"
+ENABLE                                           ="True"
+ENVIRONMENT                                      ="nonprod"
 PROJECT_NAME                                     = "accntg"
 LOCATION                                         = "CENTRAL US"
 LOCATION_SHORT_NAME                              = "cus"
