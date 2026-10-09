@@ -1,4 +1,4 @@
-ENABLE                                           ="True"
+ENABLE                                           ="True" #condition base like SRE/admin roll deploy on non prod but not applicable for prod
 ENVIRONMENT                                      ="nonprod"
 PROJECT_NAME                                     = "accntg"
 LOCATION                                         = "CENTRAL US"
